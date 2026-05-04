@@ -11,8 +11,6 @@ Uma empresa de e-commerce em crescimento acelerado enfrenta um problema crítico
 
 Este projeto usa dados operacionais históricos — logística, atendimento e comportamento do cliente — para entender **o que causa a insatisfação** e propor uma estratégia de ação preventiva, antes que o cliente se torne um detrator.
 
-> *"Os dados não mentem — mas só fazem diferença quando alguém age sobre eles."*
-
 ---
 
 ## 📁 Estrutura do Repositório
