@@ -121,6 +121,7 @@ pip install pandas numpy matplotlib seaborn
 
 ### Executando o notebook
 
+Caso opte pelo VS Code:
 ```bash
 # Clone o repositório
 git clone https://github.com/seu-usuario/nps-preditivo-ecommerce.git
@@ -128,6 +129,12 @@ cd nps-preditivo-ecommerce
 
 # Abra o Jupyter
 jupyter notebook notebooks/jadeFerreira_rm373208_nps_fase1.ipynb
+```
+Caso opte pelo Google Colab (Como eu):
+```bash
+# Abra o Google Colab
+Vá em "Comandos" e depois "Abrir notebook"
+Clique no ícone de Arquivos e faça o upload dos dados que seram analisados. (Está na pasta "data" deste repositório)
 ```
 
 > **Atenção:** certifique-se de que o arquivo `data/desafio_nps_fase_1.csv` está na pasta correta antes de executar. O notebook lê o arquivo diretamente por nome — se necessário, ajuste o caminho na célula de carregamento dos dados.
